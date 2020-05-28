@@ -3,4 +3,5 @@
 void print_hello(void)
 {
     printf("Anower Hello\n");
+    printf("goodbye");
 }
